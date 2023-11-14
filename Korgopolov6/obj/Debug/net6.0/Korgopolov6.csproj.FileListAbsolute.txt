@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.AssemblyInfo.cs
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Korgopolov6.exe
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Korgopolov6.deps.json
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Korgopolov6.runtimeconfig.json
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Korgopolov6.dll
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Korgopolov6.pdb
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.csproj.CopyComplete
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.dll
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\refint\Korgopolov6.dll
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.pdb
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\Korgopolov6.genruntimeconfig.cache
+C:\Users\1\source\repos\Korgopolov6\Korgopolov6\obj\Debug\net6.0\ref\Korgopolov6.dll

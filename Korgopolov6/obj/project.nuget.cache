@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCdBbxy0/DMVB8UZ+7rYHMZ7+3ZuWdnHBlJK0LZVa6lVDRfGc5gsNV3ben+4rUJQkY5AJt9OZEXEKQ2wxZsj/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\source\\repos\\Korgopolov6\\Korgopolov6\\Korgopolov6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

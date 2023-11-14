@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>Alica </Name>
+	  <Surname>Nikolaev</Surname>
+	  <Age> 18</Age>
+  </Human>
+<Human>
+	<Name>Anfica </Name>
+		<Surname>Daduk</Surname>
+	<Age> 19</Age>
+</Human>
+<Human>
+	<Name>Nicita </Name>
+		<Surname>Luk</Surname>
+	<Age> 20</Age>
+</Human>
+<Human>
+	<Name>Vala </Name>
+		<Surname>Ygarovna</Surname>
+	<Age> 21</Age>
+</Human>
+<Human>
+	<Name>Nina </Name>
+		<Surname>Abobavna</Surname>
+	<Age> 22</Age>
+</Human>
+
+<Human>
+	<Name>Egor </Name>
+		<Surname>Nikolaev</Surname>
+	<Age> 23</Age>
+</Human>
+
+<Human>
+	<Name>Nasta </Name>
+		<Surname>Agarkova</Surname>
+	<Age> 24</Age>
+</Human>
+</ArrayOfHuman>
+
+
+
+
