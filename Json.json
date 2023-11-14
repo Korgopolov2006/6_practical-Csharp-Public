@@ -1,1 +1,7 @@
-[{"Name":"Maria ","Age":22,"Strana":" Russia"},{"Name":"Sofia ","Age":20,"Strana":" USA"}]
+[{"Name":"Alica ","Surname":"Nikolaev","Age":18},
+{"Name":"Anfica ","Surname":"Daduk","Age":19},
+{"Name":"Nicita ","Surname":"Luk","Age":20},
+{"Name":"Vala ","Surname":"Ygarovna","Age":21},
+{"Name":"Nina ","Surname":"Abobavna","Age":22},
+{"Name":"Egor ","Surname":"Nikolaev","Age":23},
+{"Name":"Nasta ","Surname":"Agarkova","Age":24}]
